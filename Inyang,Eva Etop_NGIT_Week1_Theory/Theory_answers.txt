@@ -1,0 +1,82 @@
+1. Define a computer and explain the difference between hardware and software,
+giving three examples of each.
+
+2. What is an operating system? State two of its primary functions.
+
+3. Compare Windows and Linux, highlighting any three differences.
+
+4. Explain the following terms:
+○ File
+○ Folder (Directory)
+○ File extension
+
+5. What is the command line, and why is it important for developers?
+
+6. Define the following internet-related terms:
+○ Server
+○ Browser
+○ IP Address
+○ DNS
+○ HTTP and HTTPS (state the difference)
+
+7. Describe the client–server model using a simple example.
+
+8. Differentiate between frontend and backend development.
+
+9. Explain what a website, domain, and hosting are, and how they work together.
+
+10. Briefly describe the browser rendering process.
+
+		Answers	
+1.A computer is an electronic device that accepts data as input processes it to produce output(information) and stores the output
+  Hardware has to do with all the physical components of the computer, examples include: Monitor, keyboard and motherboard while software has to do with the sets of instructions that direct the hardware, examples include: Application software, operating systems and utility software.
+
+2.An operating system is a software that manages all hardware and software, It's primary functions include: Providing the user interface and processing commands.
+
+3. Source code:
+	Windows source code is not publicly available and users must pay a license to use it while Linux is open-source which means it is freely available allowing anyone to use, modify and distribute it.
+
+   Security:
+	Windows is more vulnerable to viruses and malware because it is widely used and often targeted while in Linux, due to it's permission system and lower exposure to threats, is considered more secure
+
+   Performance:
+	Windows require more system resources which can slow down older models while Linux is usually lightweight and efficient making it suitable for older or lower-spec systems
+In conclusion, windows is best for general users because it is easy to use and supports many applications while Linux is preferred for its efficiency, powerful command-line tools and greater control over the programming environment.
+
+4. File: A file is a collection of data stored on a computer
+   Folder: A folder can be defined as a storage location used to organize and store files in a computer
+   File extension: is a suffix attached a file name that appears after a dot and indicates the format of the file thereby helping the operating system determine the appropriate application to open a file.
+
+5. Command line is a text based interface for giving a computer direct instructions. It is important for developers cause it allows direct and precise control over the computers which enables developers to automate tasks, manage files effectively and debug programs effectively.
+
+6. Server: A server is a powerful system running software that manages, stores and delivers data and resources to other computers(clients) over a network  	
+   Browser: A browser is a software application that allows users to access, retrieve, and view content from the internet. It assembles the various resources of a web page such as HTML, CSS, JavaScript, and images and renders them into a visual page that users can read and interact with.
+
+   IP Address: An IP (Internet Protocol) address is a unique numerical label assigned to every device connected to a network that uses the Internet Protocol, including the internet.
+
+   DNS: Domain Name System (DNS) is a set of rules that governs how domain names are translated into IP addresses that computers use to locate each other on the internet. It translates human-friendly domain names into computer-friendly IP addresses.
+
+   HTTP and HTTPS: Hypertext Transfer Protocol (HTTP) is a set of rules that governs how clients—like web browsers request resources from servers, and how those servers responds so that web pages and data can be transmitted reliably across the internet. HTTPS encrypts the conversation using an SSL certificate, ensuring that data exchanged between the browser and the server is private. The difference is that HTTPS is a secure version of HTTP.
+
+7. The client–server model is a structure where clients request services or resources, and servers provide them.
+
+Example: When you open a browser and go to www.google.com, the browser sends a request to the server hosting the website. The server processes the request and sends back the web page, which the browser displays.
+
+8. Frontend Development is all about the user interface and user experience. It focuses on what the user sees and interacts with on a website or app. Frontend developers use languages like HTML (for structure), CSS (for styling), and JavaScript (for interactivity) while backend development while backend is the server-side part of a website or application that users do not see. It is responsible for processing requests, managing data, implementing business logic, and ensuring security. Backend developers use languages like Python, PHP, Java, etc.
+
+9. Website: A website is a collection of web pages and digital content that is accessible online. It contains information, images, videos, and interactive elements that users can view and interact with through a browser.
+
+Domain: A domain is the human-readable address of a website. It acts as a pointer to the website’s location on the internet, translating to the server’s IP address so users can easily access the site.
+
+Hosting: Hosting is the server space where a website’s files, databases, and resources are stored. It ensures the website is accessible online whenever users visit the domain.
+
+How They Work Together:
+
+i. A user types the domain name into a browser.
+
+ii. The domain directs the request to the hosting server where the website is stored.
+
+iii. The hosting server sends the website’s files to the browser, which then displays the website for the user.
+
+10. The browser rendering process is how a browser turns the raw code from a server into a visible, interactive web page. First, the browser reads the HTML to create the DOM (Document Object Model), which represents the structure of the page. At the same time, it processes the CSS to build the CSSOM (CSS Object Model), defining how each element should be styled. The DOM and CSSOM are then combined into a render tree, which determines what will actually appear on the screen. The browser calculates the layout, figuring out the exact size and position of each element, and finally paints the page, drawing all the content so the user can see and interact with it.
+
