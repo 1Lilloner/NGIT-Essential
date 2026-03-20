@@ -1,0 +1,90 @@
+				TASK 1
+
+Week 1 focused on bridging the gap between high-level programming and the underlying technical infrastructure required for modern web development. By analyzing computer architecture, operating systems, and networking protocols like DNS and HTTP, I established the theoretical framework necessary for debugging and performance optimization. Practical instruction centered on professional environment configuration, specifically mastering Command Line (CLI) navigation and VS Code customization to streamline the development workflow. Furthermore, the introduction of Git and GitHub provided a critical introduction to version control systems and collaborative repository management. Collectively, these modules ensure that all subsequent software development is built upon a secure, organized, and technically sound foundation.
+
+				Steps
+I created a folder named web_basics.
+
+Inside web_basics, I created subfolders: notes, projects, and images.
+
+Opened the notes folder and created a file named week1.txt.
+
+Wrote a short paragraph describing what was learned in Week 1 (Internet and computer basics, hardware vs software, IP address, DNS, and how browsers and servers interact).
+
+				TASK 2
+1 cd OneDrive Entered the OneDrive folder.
+2 cd Desktop Entered the Desktop folder.
+3 cd web_basics Entered your main project folder.
+4 mkdir cli_practice Created the new folder.
+5 cd cli_practice Entered the new folder you just made.
+6 type nul > test.txt Created the blank text file.
+7 ren test.txt myfile.txt Renamed the file to its new name.
+8 dir Displayed everything to confirm success.
+
+				Steps
+I opened the command prompt
+
+I navigated to the OneDrive folder using cd OneDrive.
+
+I navigated to the Desktop folder using cd Desktop.
+
+I navigated to the web_basics folder using cd web_basics.
+
+I created a new folder named cli_practice using mkdir cli_practice.
+
+I entered the cli_practice folder using cd cli_practice.
+
+I created an empty file named test.txt using type nul > test.txt.
+
+I renamed test.txt to myfile.txt using ren test.txt myfile.txt.
+
+I displayed all files and folders in the directory using dir.
+
+				TASK 3
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My First Web Page</title>
+</head>
+<body>
+    <h1>Hello, World!</h1>
+</body>
+</html>
+
+				Steps
+I installed Visual Studio Code.
+
+I opened the web_basics folder in VS Code.
+
+I navigated to the projects folder.
+
+I created a file named index.html.
+
+I wrote basic HTML code inside the file:
+
+				TASK 4
+The website visited is www.mathworks.com
+The domain name is mathworks.com
+It uses HTTPS
+What happens behind the scenes: 
+1.  DNS Lookup: The browser sends a request to a DNS server to "translate" the name mathworks.com into a numerical IP address.
+2.  Handshake: The computer establishes a secure connection with the MathWorks server using the HTTPS protocol to ensure your data stays private.
+3.  Request/Response: The browser sends a GET request for the homepage; the server finds the files and sends back a package of HTML, CSS, and JavaScript.
+4.  Rendering: Your browser’s engine reads that code and paints the "Welcome back" screen displayed.
+
+				Steps
+I visited the website www.mathworks.com
+
+I identified the domain name as mathworks.com.
+
+I observed that the website uses HTTPS.
+
+I described what happens behind the scenes, which was:
+
+DNS Lookup: The browser sends a request to a DNS server to translate mathworks.com into an IP address.
+
+Handshake: A secure connection is established with the server using HTTPS to ensure data is encrypted.
+
+Request/Response: The browser sends a request for the webpage, and the server responds with HTML, CSS, and JavaScript files.
+
+Rendering: The browser processes the files, builds the page structure, and displays the website on the screen.
